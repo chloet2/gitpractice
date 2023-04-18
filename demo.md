@@ -1,9 +1,5 @@
 This is my first markdown file.
-I'm learning how to use git and github.
-Great job!
 
-I'm learning how to write in markdown.
+I've made a change to this file.
 
-Very cool.
-
-Now I'll commit these changes to the file. 
+I'm practicing committing changes and pushing files to my repo. 
