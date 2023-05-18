@@ -17,6 +17,7 @@ Let's make a collapsed section.
 
 <details>
 <summary>Here's a collapsed section.</summary>
+
 ### A collapsed Section
 
 I learned how to make expandable boxes. The reader has to click to
