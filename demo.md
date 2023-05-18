@@ -24,3 +24,12 @@ I learned how to make expandable boxes. The reader has to click to
 expand the box.
 
 </details>
+
+### Making Tables
+
+| Name | Description |
+| --- | --- |
+| Chloe | She is learning how to make a table |
+| `git status` | This is how you add inline code |
+| `git log --oneline` | This is how you show summarized log of commits. |
+| Bold text | This is **bold text**. |
