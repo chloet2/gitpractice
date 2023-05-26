@@ -6,6 +6,8 @@ This is normal text.
 
 This is **bold** text.
 
+I have added more **bold text**. 
+
 This is *italicized* text.
 
 **This is _extremely_ important text**.
