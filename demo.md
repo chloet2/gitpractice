@@ -2,7 +2,7 @@
 
 This is my first markdown file. I'm learning how to add headings
 
-I've made a change to this file.
+I've made a change to this file. I'M PRETENDING THIS LINE IS A CONFLICT. 
 
 ## Committing Changes
 
