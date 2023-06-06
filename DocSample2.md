@@ -24,3 +24,12 @@ Some basic Git commands to remember.
 | -------- | -------- |
 | `git status`| Checks the version of git you have your computer |
 | `git add .` | Stages the changes in the file. |
+| `git commit -m` | Commits the changes in the file and lets you add a description of what the changes are about|
+| `git push origin` | Reuploads the file to your main branch in GitHub. |
+| `git log --oneline` | Summarizes the change log into separae lines of one line each. |
+
+## Something Motivational
+
+Whenever you feel discouraged about your progress learning Git and using the command line, just remember that:
+
+> The master has failed more times than the student has even tried. 
